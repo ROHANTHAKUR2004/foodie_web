@@ -4,7 +4,7 @@ export default function Carousal(){
     return(
         <div>
       <div className="w-full h-[80vh] bg-gray-900">
-        <div className="mt-20 carousel w-full h-[70%]">
+      <div className="mt-20 carousel w-full h-[70%]">
     <div id="slide1" className="carousel-item relative w-full">
     <Carts className="w-full" img={"https://assets.box8.co.in/horizontal-rectangle/web/banner/1820"}/>
     <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
